@@ -33,6 +33,7 @@ The aim of this project is to uncover and analyze the key factors that contribut
 ## 5. EXPLORATORY DATA ANALYSIS
 
 
+
 ## 6. KEY INSIGHTS
 
 - **Budget** and **release month** are strong predictors of revenue.  
