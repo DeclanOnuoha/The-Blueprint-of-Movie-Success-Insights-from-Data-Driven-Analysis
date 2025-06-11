@@ -1,6 +1,6 @@
 # The-Blueprint-of-Movie-Success-Insights-from-Data-Driven-Analysis
 
-
+![Movie production Photo](job.jpg)
 
 ## Introduction
 The film industry is a global powerhouse, generating over $90 billion in annual revenue, yet the formula for a movie’s success remains far from guaranteed. Even with significant investments—sometimes exceeding $200 million—and the involvement of A-list talent, many films fail to meet financial or critical expectations. While factors like budget, cast, genre, release timing, and marketing are widely considered important, their true impact can only be understood through rigorous data analysis.
