@@ -32,7 +32,7 @@ The aim of this project is to uncover and analyze the key factors that contribut
   
 ## 5. EXPLORATORY DATA ANALYSIS
 
-
+![correlation matrix](corr_matrix_plot.png)
 
 ## 6. KEY INSIGHTS
 
