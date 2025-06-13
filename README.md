@@ -31,9 +31,28 @@ The aim of this project is to uncover and analyze the key factors that contribut
 - Updating columns to numeric values for correlation matrix
   
 ## 5. EXPLORATORY DATA ANALYSIS
+### Gross Earning by Budget
+<img src="corr.png" alt="Gross Earning by Budget" width="850" height="600">
+The grapgh above reveals that there is a significant relationship between the budget abd gross earnings of a movie
 
-<img src="corr_matrix_plot.png" alt="correlation matrix" width="900" height="675">
+### Correlation Matrix for movies
+<img src="corr_matrix_plot.png" alt="correlation matrix" width="850" height="600">
+The heatMap reveals the correlation matrix for movies, we can deduct that the factors contributing to the success of a movie are votes and budgets, as they tend to have the highest correlation, It is also worthy to notes that, Company, movie name and genre had no correlation.
 
+### Movie Gross Earning by Month
+
+<img src="earning_by_months.png" alt="earning by month" width="850" height="600">
+
+From the graph we can deduct, that the months with the Highest gross earnings are:
+  - December(12)
+  - May(5)
+  - November(11)
+    
+ Hence, the best time to release a movie is **December** based on the overall gross earning in the period
+
+### Runtime Vs Average Gross Earnings
+<img src="Run_time_vs_average_gross_time.png" alt="Run time vs Average gross earnings" width="850" height="600">
+The grapgh indicates that movies with a runtime between 160 - 190 minutes produced the highest gross earnings.
 
 ## 6. KEY INSIGHTS
 
