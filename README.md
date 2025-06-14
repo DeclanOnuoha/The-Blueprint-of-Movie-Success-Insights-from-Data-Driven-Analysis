@@ -60,13 +60,33 @@ The graphs shows that Action genre had the highest level of success across all m
 
 ## 6. KEY INSIGHTS
 
-- **Budget** and **Votes** are strong predictors of revenue.  
-- In terms of timing for the release of a movie, **December** was the most valuable, as it yielded the highest overall gross earning.
-- High-profile directors and actors have a **positive impact**, particularly in action and drama genres.  
-- **Action** and **Family** genre had the highest level of success across all movies.  
+- **Budget** and **audience votes** were the strongest predictors of box office revenue.
+- **December** proved to be the most lucrative month for releases, aligning with holiday season spikes in viewership.
+- Films led by **high-profile directors and actors** performed significantly better—especially in the **Action** and **Drama** genres.
+- **Action** and **Family** films stood out as the top-performing genres across multiple metrics.
 
-## 7. Limitations
+## 7. LIMITATIONS
 
 - Streaming viewership and marketing spend data were incomplete.  
 - External variables like global events or competing releases weren’t fully captured.  
 - Cultural shifts and social media trends weren’t included but may play a major role.
+
+## 8. CONCLUSION
+The analysis confirms that a combination of factors—especially **budget, timing, and talent** can strongly influence a film’s commercial performance. Strategic release months like **December**, along with investment in **star power**, often correlate with higher success. Additionally, genre plays a meaningful role, with **Action** and **Family** films showing consistent popularity. These findings can help production studios and marketing teams approach planning with a more data-driven mindset, reducing reliance on guesswork.
+
+## 9. RECOMMENDATIONS
+Based on the results, the following strategic actions are recommended:
+
+- **Allocate budgets thoughtfully**, particularly for proven genres and recognizable talent.
+- **Plan major releases around peak periods**, especially December, to capitalize on seasonal demand.
+- **Leverage high-impact directors and actors**, especially in Action and Drama genres.
+- **Invest in genres with historical strength**, such as Action and Family, to increase box office appeal and minimize risk.
+
+
+## 10. FUTURE WORKS
+To improve and expand the project further, the following steps are proposed:
+- **Incorporate social media and sentiment data** (e.g., from X/Twitter or YouTube) for real-time trend analysis.
+- **Include marketing and advertising spend** to better understand ROI and promotional effectiveness.
+- **Segment revenue performance by region**, especially to compare domestic vs. international markets.
+- **Compare streaming and theatrical release metrics**, as streaming continues to shift the landscape.
+- **Develop a user-friendly dashboard** (e.g., with Streamlit or Power BI) to allow stakeholders to interact with the data and generate predictions.
