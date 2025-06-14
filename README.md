@@ -52,12 +52,21 @@ From the graph we can deduct, that the months with the Highest gross earnings ar
 
 ### Runtime Vs Average Gross Earnings
 <img src="Run_time_vs_average_gross_time.png" alt="Run time vs Average gross earnings" width="850" height="600">
-The grapgh indicates that movies with a runtime between 160 - 190 minutes produced the highest gross earnings.
+The graph indicates that movies with a runtime between 160 - 190 minutes produced the highest gross earnings.
+
+### Movie Gross Earning by Genre
+<img src="Gross_earnings_by_genre.png" alt="Gross_earning_by_genre" width="850" height="600">
+The graphs shows that Action genre had the highest level of success across all movies, whereas the Family genre had the highest average success
 
 ## 6. KEY INSIGHTS
 
-- **Budget** and **release month** are strong predictors of revenue.  
-- **Audience ratings** are more closely tied to financial success than critic reviews.  
+- **Budget** and **Votes** are strong predictors of revenue.  
+- In terms of timing for the release of a movie, **December** was the most valuable, as it yielded the highest overall gross earning.
 - High-profile directors and actors have a **positive impact**, particularly in action and drama genres.  
-- Streaming-first films show different success patterns—often relying more on engagement than box office.  
-- Predictive models performed well using only pre-release features.
+- **Action** and **Family** genre had the highest level of success across all movies.  
+
+## 7. Limitations
+
+- Streaming viewership and marketing spend data were incomplete.  
+- External variables like global events or competing releases weren’t fully captured.  
+- Cultural shifts and social media trends weren’t included but may play a major role.
